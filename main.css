@@ -39,6 +39,7 @@ img {
     width: 100%;
     filter: brightness(70%);
     transition: transform .5s, filter 1.5s ease-in-out;
+    margin-top: 1rem;
 }
 
 img:hover {
@@ -79,6 +80,7 @@ img:hover {
     text-align: center;
     padding: 1rem;
     background-color: rgb(15, 100, 15);
+    margin-bottom: 0.8rem;
 }
 
 .main-footer{
